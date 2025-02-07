@@ -1,0 +1,19 @@
+body {
+    background-color: #212a31;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #748d92;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    
+}
+hr {
+    box-shadow: 1px 0 5px;
+    color: #d3d9d4;
+}
